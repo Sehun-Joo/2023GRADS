@@ -15,4 +15,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 ## The List
 
 | Name  |  Location |  Notes |
+|---|---|-------------|
+| [IMC](https://imc.wd5.myworkdayjobs.com/en-US/invitation/job/Chicago/Graduate-Quant-Trader_REQ-01957) | N/A | Graduate Quant Trader |
 
